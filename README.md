@@ -102,4 +102,4 @@ This project is a learning exercise and is not affiliated with Instagram or Meta
 
 - Instagram for the design inspiration
 - Material-UI for the excellent component library
-- The React community for the amazing ecosystem
+- The React community for the amazing ecosystem\"## Author\" 
